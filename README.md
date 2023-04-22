@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krishna Gokhale <@krisgoks>
 - 👨‍🔬 I’m trained in Computer Science and Engineering, and I’m interested in its application in healthcare, particularly in Health Informatics, Learning Health Systems and Real-World Evidence using Big Data.
-- 👀 I do some Data science, some Epidemiology, and a lot of full stack development with Java, Spring and ReactJS
+- 👀 I do some Data science, some Epidemiology, and a lot of Software Engineering and development with Java, Spring and ReactJS
 - 📫 Reach me on https://twitter.com/KrishnaGokhale
 
 
